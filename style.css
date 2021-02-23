@@ -101,3 +101,13 @@ form.sign-in-form {
     color: #aaa;
     font-weight: 500;
 }
+
+.social-text {
+    padding: 0.7rem 0;
+    font-size: 1rem;
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+}
