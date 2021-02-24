@@ -128,8 +128,8 @@ form.sign-in-form {
 }
 
 .social-icon:hover {
-    color: #4481eb;
-    border-color: #4481eb;
+    color: #0fdd5e;
+    border-color: #24da5a;
 }
 
 .btn {
@@ -148,7 +148,7 @@ form.sign-in-form {
 }
 
 .btn:hover {
-    background-color: #4d84e2;
+    background-color: #4de272;
 }
 
 .panels-container {
